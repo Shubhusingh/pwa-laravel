@@ -4,6 +4,8 @@ This repository demonstrates how to set up a Progressive Web App (PWA) in a Lara
 
 ## Prerequisites
 
+-[Lravel PWA Repo](https://github.com/Shubhusingh/pwa-laravel)
+
 Before you begin, ensure you have the following installed:
 
 - [PHP](https://www.php.net/downloads.php) >= 7.3
