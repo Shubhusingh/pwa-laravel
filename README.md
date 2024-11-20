@@ -1,4 +1,4 @@
-# Laravel PWA Setup
+# Laravel PWA Setup(https://github.com/Shubhusingh/pwa-laravel)
 
 This repository demonstrates how to set up a Progressive Web App (PWA) in a Laravel application. Follow the steps below to configure PWA features and enable offline functionality for your Laravel app.
 
